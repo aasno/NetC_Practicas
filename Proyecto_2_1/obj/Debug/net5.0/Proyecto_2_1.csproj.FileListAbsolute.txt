@@ -1,0 +1,16 @@
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\bin\Debug\net5.0\Proyecto_2_1.exe
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\bin\Debug\net5.0\Proyecto_2_1.deps.json
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\bin\Debug\net5.0\Proyecto_2_1.runtimeconfig.json
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\bin\Debug\net5.0\Proyecto_2_1.runtimeconfig.dev.json
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\bin\Debug\net5.0\Proyecto_2_1.dll
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\bin\Debug\net5.0\ref\Proyecto_2_1.dll
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\bin\Debug\net5.0\Proyecto_2_1.pdb
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\obj\Debug\net5.0\Proyecto_2_1.csproj.AssemblyReference.cache
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\obj\Debug\net5.0\Proyecto_2_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\obj\Debug\net5.0\Proyecto_2_1.AssemblyInfoInputs.cache
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\obj\Debug\net5.0\Proyecto_2_1.AssemblyInfo.cs
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\obj\Debug\net5.0\Proyecto_2_1.csproj.CoreCompileInputs.cache
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\obj\Debug\net5.0\Proyecto_2_1.dll
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\obj\Debug\net5.0\ref\Proyecto_2_1.dll
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\obj\Debug\net5.0\Proyecto_2_1.pdb
+D:\Escritorio\Libro Programacion C#\Proyecto_2_1\obj\Debug\net5.0\Proyecto_2_1.genruntimeconfig.cache
