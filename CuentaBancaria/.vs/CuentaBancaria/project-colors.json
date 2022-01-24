@@ -5,7 +5,17 @@
       "ProjectGuid": "0e34710b-5126-490e-9ec6-7ef00b26a833",
       "DisplayName": "CuentaBancaria",
       "ColorIndex": 0
+    },
+    "c8627ba7-32f3-47fd-b1ba-7b9cc3879069": {
+      "ProjectGuid": "c8627ba7-32f3-47fd-b1ba-7b9cc3879069",
+      "DisplayName": "Proyecto_4_1",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

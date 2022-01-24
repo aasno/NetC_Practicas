@@ -1,0 +1,16 @@
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\bin\Debug\net5.0\CuentaBancaria.exe
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\bin\Debug\net5.0\CuentaBancaria.deps.json
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\bin\Debug\net5.0\CuentaBancaria.runtimeconfig.json
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\bin\Debug\net5.0\CuentaBancaria.runtimeconfig.dev.json
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\bin\Debug\net5.0\CuentaBancaria.dll
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\bin\Debug\net5.0\ref\CuentaBancaria.dll
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\bin\Debug\net5.0\CuentaBancaria.pdb
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\obj\Debug\net5.0\CuentaBancaria.csproj.AssemblyReference.cache
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\obj\Debug\net5.0\CuentaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\obj\Debug\net5.0\CuentaBancaria.AssemblyInfoInputs.cache
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\obj\Debug\net5.0\CuentaBancaria.AssemblyInfo.cs
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\obj\Debug\net5.0\CuentaBancaria.csproj.CoreCompileInputs.cache
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\obj\Debug\net5.0\CuentaBancaria.dll
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\obj\Debug\net5.0\ref\CuentaBancaria.dll
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\obj\Debug\net5.0\CuentaBancaria.pdb
+D:\Escritorio\Libro Programacion C#\CuentaBancaria\obj\Debug\net5.0\CuentaBancaria.genruntimeconfig.cache
